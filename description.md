@@ -1,29 +1,21 @@
-# Judul Project
-
+# Analisis Faktor-Faktor yang Memengaruhi Penjualan Produk di E-commerce Wish dan Seberapa Besar Efek Masing-Masing Faktor 
 ## Repository Outline
-`Bagian ini menjelaskan secara singkat konten/isi dari file yang dipush ke repository`
-
-Contoh:
-```
-1. README.md - Penjelasan gambaran umum project
-2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
-dst.
-```
+`Notebook in berisi analisis dataset hasil webscraping dari platform ecommerce Wish, dengan filter pencarian "Summer" di section clothing menggunakan python. Analisis meliputi eksplorasi data, cleaning data, analisis data dengan deskriptif dan inferensial statistik, visualisasi hasil analisis, dan penarikan kesimpulan.`
 
 ## Problem Background
-`Bagian ini menjelaskan masalah yang diselesaikan pada project ini beserta latar belakang masalahnya secara singkat`
+`Beberapa merchant mengalami penurunan penjualan pada tahun 2021 pada platform ecommerce Wish terutama pada awal tahun ketika orang-orang banyak membeli pakaian untuk menyambut musim panas. Sementara itu, merchant yang lain memiliki penjualan yang relatif lebih stabil. Oleh karena itu, perlu dilakukan analisis data penjualan produk sebagai strategi penjualan pada merchant-merchant tersebut agar penjualan mereka bisa naik.`
 
 ## Project Output
-`Bagian ini menjelaskan secara singkat output projectnya apa, misal model machine learning, dasboard, dsb.`
+`Project ini memberikan insight bagi merchant-merchant yang memiliki kesulitan dalam meningkatkan revenuenya di ecommerce Wish sehingga ada peningkatan penjuala produk`
 
 ## Data
-`Bagian ini menjelaskan secara singkat mengenai data yang digunakan seperti sumber data, deskripsi singkat karakteristik data seperti jumlah kolom, baris data, missing values, dsb`
+`dataset merupakan hasil webscraping dari platform ecommerce Wish, dengan filter pencarian "Summer" di section clothing. Data memiliki 43 kolom dan 1537 baris. Data diambil dari halaman https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish `
 
 ## Method
-`Bagian ini menjelaskan metode yang digunakan pada project, misal project ini mengenai machine learning sehingga metode yang dipakai adalah model supervised learning dengan model KNN`
+`Methode yang digunakan adalah Data Collection (menampilkan data, cleaning data meliputi mengganti tipe data, menambah kolom, menghapus kolom, mengganti nama kolom, dan pengexcludan outlier), EDA, analisis korelasi, data visualization, dan penarikan kesimpulan.`
 
 ## Stacks
-`Bagian ini menjelaskan stacks yang digunakan seperti bahasa pemrograman, tools, dan library Python yang digunakan`
+`Bahasa pemrograman yang digunakan adalah Python dengan libaries meliputi pandas, scypy, dan matplotlib`
 
 ## Reference
 `Bagian ini berisi link pendukung seperti referensi, dashboard, atau deployment`
