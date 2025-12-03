@@ -18,12 +18,7 @@
 `Bahasa pemrograman yang digunakan adalah Python dengan libaries meliputi pandas, scypy, dan matplotlib`
 
 ## Reference
-`Bagian ini berisi link pendukung seperti referensi, dashboard, atau deployment`
+```Dashboard: 
+statistik inferensial: https://public.tableau.com/views/faktor-faktoryangmemengaruhipenjualanprodukdie-commerceWish/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
----
-
-**Referensi tambahan:**
-- [Basic Writing and Syntax on Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Contoh readme](https://github.com/fahmimnalfrzki/Swift-XRT-Automation)
-- [Another example](https://github.com/sanggusti/final_bangkit) (**Must read**)
-- [Additional reference](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+statistik deskriptif: https://public.tableau.com/views/faktor-faktoryangmemengaruhipenjualanprodukdie-commerceWish/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link```
